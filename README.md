@@ -1,10 +1,9 @@
-# txt as md Obsidian plugin
-[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/deathau/txt-as-md-obsidian?style=for-the-badge&sort=semver)](https://github.com/deathau/txt-as-md-obsidian/releases/latest)
-![GitHub All Releases](https://img.shields.io/github/downloads/deathau/txt-as-md-obsidian/total?style=for-the-badge)
+# mdx as md Obsidian plugin
+[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/mkozhukharenko/mdx-as-md-obsidian?style=for-the-badge&sort=semver)](https://github.com/mkozhukharenko/mdx-as-md-obsidian/releases/latest)
+![GitHub All Releases](https://img.shields.io/github/downloads/mkozhukharenko/mdx-as-md-obsidian/total?style=for-the-badge)
 
-A plugin for [Obsidian](https://obsidian.md) which allows editing of txt files as if they were markdown.
+A plugin for [Obsidian](https://obsidian.md) which allows editing of mdx files as if they were markdown.
 
-![Screenshot](https://github.com/deathau/txt-as-md-obsidian/raw/main/screenshot.png)
 
 ### Compatibility
 
@@ -58,14 +57,6 @@ folder (e.g, `<vault>/.obsidian/plugins/<plugin-name>/`)
 Alternately, you can clone the repo directly into your plugins folder and once
 dependencies are installed use `npm run dev` to start compilation in watch mode.  
 You may have to reload obsidian (`ctrl+R`) to see changes.
-
-## Pricing
-Huh? This is an open-source plugin I made *for fun*. It's completely free.
-However, if you absolutely *have* to send me money because you like it that
-much, feel free to throw some coins in my hat via the following:
-
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/deathau?style=social)](https://github.com/sponsors/deathau)
-[![Paypal](https://img.shields.io/badge/paypal-deathau-yellow?style=social&logo=paypal)](https://paypal.me/deathau)
 
 # Version History
 ## 0.0.1
